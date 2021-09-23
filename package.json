@@ -1,0 +1,15 @@
+{
+  "name": "notes_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "NotesFunction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LalitLohani",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "yargs": "^17.2.0"
+  }
+}
